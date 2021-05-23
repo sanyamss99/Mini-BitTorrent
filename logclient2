@@ -1,0 +1,23 @@
+******* new client started *********
+CLient socket : 127.0.0.1:7800
+Tracker 1 socket : 127.0.0.1:5000
+Tracker 2 socket : 127.0.0.1:6000
+***********Connection Successfully Established with tracker !! *******
+read mtorrentfile sent to server & got response : PASS2
+Command from Client : get monator.mtorrent monalisa2.jpeg
+GET command execution in client side
+GET command : Complex Data needed to send to tracker : get#35d3eacb87e44185645e2e8dd887e610ab81a344
+CLient message sent to tracker
+Client(127.0.0.1:7800)got reply from tracker ---> 127.0.0.1:8800#/home/sanyam/Documents/monalisa.jpeg@127.0.0.1:7800#/home/sanyam/Documents/monalisa.jpeg
+inside get command execution
+dofiletransfering (function waali) called : 127.0.0.1:8800#/home/sanyam/Documents/monalisa.jpeg@127.0.0.1:7800#/home/sanyam/Documents/monalisa.jpeg
+***** Available seeders for downloading file *******
+127.0.0.1:8800--->/home/sanyam/Documents/monalisa.jpeg
+127.0.0.1:7800--->/home/sanyam/Documents/monalisa.jpeg
+******************************************************
+****** Connection established for file transfered ! 
+
+Mtorrent creator called for filepath : monalisa2.jpeg
+Mtorrent created succesfully !
+share cmd gets Long Hash : eecf5ce36f71af101cf8
+(SHARE cmd) Complex Data need to send to tracker : share#35d3eacb87e44185645e2e8dd887e610ab81a344#127.0.0.1:7800#monalisa2.jpeg

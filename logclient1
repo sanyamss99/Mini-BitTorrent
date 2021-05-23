@@ -1,0 +1,15 @@
+******* new client started *********
+CLient socket : 127.0.0.1:8800
+Tracker 1 socket : 127.0.0.1:5000
+Tracker 2 socket : 127.0.0.1:6000
+***********Connection Successfully Established with tracker !! *******
+Command from Client : share /home/sanyam/Documents/monalisa.jpeg monator.mtorrent
+Share command execution in client side
+Mtorrent creator called for filepath : /home/sanyam/Documents/monalisa.jpeg
+Mtorrent created succesfully !
+share cmd gets Long Hash : eecf5ce36f71af101cf8
+(SHARE cmd) Complex Data need to send to tracker : share#35d3eacb87e44185645e2e8dd887e610ab81a344#127.0.0.1:8800#/home/sanyam/Documents/monalisa.jpeg
+CLient message sent to tracker
+Client(127.0.0.1:8800)got reply from tracker ---> PASS3
+******* COnnection accepted in seeder ******
+Seeder gets data from clients : /home/sanyam/Documents/monalisa.jpeg

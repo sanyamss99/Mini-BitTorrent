@@ -1,0 +1,49 @@
+Connection accepted
+Tracker get Data from client : share#35d3eacb87e44185645e2e8dd887e610ab81a344#127.0.0.1:8800#/home/sanyam/Documents/monalisa.jpeg
+tracker executing share command
+
+-----------seederlist data-------------
+
+Data for (35d3eacb87e44185645e2e8dd887e610ab81a344) : 
+127.0.0.1:8800---> /home/sanyam/Documents/monalisa.jpeg
+------------------------------------------
+
+Reply message sent from tracker to client
+
+Connection accepted
+Tracker get Data from client : share#35d3eacb87e44185645e2e8dd887e610ab81a344#127.0.0.1:7800#/home/sanyam/Documents/monalisa.jpeg
+tracker executing share command
+
+-----------seederlist data-------------
+
+Data for (35d3eacb87e44185645e2e8dd887e610ab81a344) : 
+127.0.0.1:8800---> /home/sanyam/Documents/monalisa.jpeg
+127.0.0.1:7800---> /home/sanyam/Documents/monalisa.jpeg
+------------------------------------------
+
+Reply message sent from tracker to client
+
+Tracker get Data from client : get#35d3eacb87e44185645e2e8dd887e610ab81a344
+tracker executing get command
+
+-----------seederlist data-------------
+
+Data for (35d3eacb87e44185645e2e8dd887e610ab81a344) : 
+127.0.0.1:8800---> /home/sanyam/Documents/monalisa.jpeg
+127.0.0.1:7800---> /home/sanyam/Documents/monalisa.jpeg
+------------------------------------------
+
+Reply message sent from tracker to client
+
+Tracker get Data from client : share#35d3eacb87e44185645e2e8dd887e610ab81a344#127.0.0.1:7800#monalisa2.jpeg
+tracker executing share command
+
+-----------seederlist data-------------
+
+Data for (35d3eacb87e44185645e2e8dd887e610ab81a344) : 
+127.0.0.1:8800---> /home/sanyam/Documents/monalisa.jpeg
+127.0.0.1:7800---> /home/sanyam/Documents/monalisa.jpeg
+------------------------------------------
+
+Reply message sent from tracker to client
+
